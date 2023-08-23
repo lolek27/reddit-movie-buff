@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reddit-movie-buff/static/css/main.4b12d130.css",
-    "main.js": "/reddit-movie-buff/static/js/main.b27fb88b.js",
+    "main.js": "/reddit-movie-buff/static/js/main.24a642d7.js",
     "static/js/787.824eaad7.chunk.js": "/reddit-movie-buff/static/js/787.824eaad7.chunk.js",
     "static/media/deathstar.png": "/reddit-movie-buff/static/media/deathstar.5262b798f51ba5464f89.png",
     "static/media/blade2.png": "/reddit-movie-buff/static/media/blade2.e531a362c5473afd92de.png",
@@ -36,11 +36,11 @@
     "static/media/reddit-logo512.png": "/reddit-movie-buff/static/media/reddit-logo512.b67c045aaec6837ea0ca.png",
     "index.html": "/reddit-movie-buff/index.html",
     "main.4b12d130.css.map": "/reddit-movie-buff/static/css/main.4b12d130.css.map",
-    "main.b27fb88b.js.map": "/reddit-movie-buff/static/js/main.b27fb88b.js.map",
+    "main.24a642d7.js.map": "/reddit-movie-buff/static/js/main.24a642d7.js.map",
     "787.824eaad7.chunk.js.map": "/reddit-movie-buff/static/js/787.824eaad7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b12d130.css",
-    "static/js/main.b27fb88b.js"
+    "static/js/main.24a642d7.js"
   ]
 }
