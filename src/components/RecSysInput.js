@@ -82,6 +82,7 @@ const RecAutocomplete = ({ value, onChange, onSearchResults, className }) => {
           id="go-search-button"
           className="search-button"
           onClick={onClickButton}
+          disabled={!value || value.length < 3}
           variant="outline-secondary">
           <img src={reddit} width={32} height={32} />
           <span style={{ paddingLeft: "5px" }}>Search</span>
