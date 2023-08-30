@@ -1,5 +1,5 @@
-const SEARCH_URL = "http://100.26.188.128/search_recs/";
-// "http://127.0.0.1:8000/search_recs/";
+const SEARCH_URL =
+  "https://yoru2f8wok.execute-api.us-east-2.amazonaws.com/search_recs/";
 
 export class SearchRecsClient {
   constructor() {

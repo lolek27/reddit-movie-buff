@@ -1,7 +1,7 @@
 export function About() {
   const goToGithub = () => {
     window.open(
-      "https://github.com/lolek27/reddit-movie-buff-recsys/blob/main/README.md",
+      "https://github.com/lolek27/reddit-movie-buff-recsys",
       "_blank"
     );
   };
