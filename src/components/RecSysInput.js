@@ -10,14 +10,19 @@ import { LocalStorage } from "../utils/LocalStorage";
 // import "/node_modules/react-bootstrap-typeahead/css/Typeahead.css";
 
 const defaultOptions = [
-  `Looking for Mysteries that take place in one room/building/setting. I'm looking for movies where it's a couple people (or more) 
-in a room or small place where you can't really tell what's going on or what is going to happen until the end`,
+  `Underrated spoof movies?
+  I love spoof movies, but there arent that many great ones. I wonder maybe someone know some hidden gems and could recommend them?
+  I seen some I consider underrated like Walk Hard, MacGruber, etc`,
+  `I'm looking for really grimy type films like Se7en or 8MM
+  It's a vibe that's hard to explain but that very grimy, industrial type feel, almost as if Nine Inch Nails made films instead of music.
+  And yes, I've seen Fight Club`,
   `Vampire/Monsters movies. Would like some reccomendations of a good creature movie. Preference to vampires.`,
-  `Action Movies without guns. I saw John Wick 4 in the theater. I really enjoyed it, but holy shit there was more bullets shot than there were seconds in the almost 2 5/6 hour movie!
-Got me wondering - what good action movie (preferably more modern day) that doesn't rely on 50,000 bullets?`,
-  `I want to watch romantic movies that feature a depressed girl and a sunshine boy instead of the other way around
-I know the title sounds really stupid but pop culture has always had the depressed boy and sunshine girl trope and I'm tired of the same stuff over and over again. 
-As a depressed girl, I'd like to watch a few movies that have the opposite trope just to comfort myself.`,
+  `when harry met sally, you've got mail, sleepless in seattle romcom vibes.
+  I am looking for romantic comedies along the same vein as When Harry Met Sally, You've Got Mail and Sleepless in Seattle.
+  Suggestions can certainly be more modern than those listed but all suggestions welcome!`,
+  `Suggestions for a supernatural / alien movie
+
+  Something like Arrival or The Vast of Night. Not along the lines of Alien, Predator etc. Less action and Hollywood, more wtf?`,
 ];
 
 function createDefaultOptions() {
